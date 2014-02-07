@@ -1,0 +1,5 @@
+Senior Options is a program where high school seniors end classes early and spend the month of May (+/- a few weeks) either doing internships or independent projects with a smaller internship component. Each student is assigned to a mentor, who is a school faculty member, to ensure that the student is doing what they're supposed to be. At the beginning of the process, students must seek out teachers for mentorship, as each teacher (depending on their schedule) has a limited number of mentee slots. In the past, this system was managed by a bunch of spreadsheets on different computers and printed consent forms. This project moves the process to a centralized, online source using HTML, PHP, and SQL (with a little CSS to make the whole experience easier to understand).
+
+Code is commented, though not particularly well organized. Not currently supported/updated, and has been forked by the school it was designed for.
+
+Written by Evan Bederman and Max Cohen
